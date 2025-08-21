@@ -1,1 +1,1 @@
-ghcr.io/xiangma9712/mcp/mysql:latest
+bytebase/dbhub:latest
