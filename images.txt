@@ -1,1 +1,1 @@
-bytebase/dbhub:latest
+prom/prometheus
