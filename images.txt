@@ -1,1 +1,1 @@
-prom/prometheus
+openjdk:8-jre-alpine
