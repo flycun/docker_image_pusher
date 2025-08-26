@@ -1,1 +1,1 @@
-openjdk:8-jre-alpine
+us-central1-docker.pkg.dev/database-toolbox/toolbox/toolbox:0.12.0
