@@ -1,1 +1,1 @@
-safarov/freeswitch
+influxdb:2
