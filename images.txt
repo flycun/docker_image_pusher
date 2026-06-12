@@ -1,5 +1,1 @@
-node:20
-nginx:1.27
---platform linux/arm64 redis:7
-influxdb:2
-postgres:16-alpine
+node:latest
