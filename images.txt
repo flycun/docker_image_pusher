@@ -1,1 +1,1 @@
-node:latest
+tomcat:8.0.53-jre8-alpine
