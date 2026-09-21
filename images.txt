@@ -1,1 +1,1 @@
-tomcat:8.0.53-jre8-alpine
+node:22
